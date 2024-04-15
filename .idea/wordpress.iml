@@ -8,6 +8,9 @@
       <excludeFolder url="file://$MODULE_DIR$/wp-content/themes/twentytwentythree" />
       <excludeFolder url="file://$MODULE_DIR$/wp-content/themes/twentytwentytwo" />
       <excludeFolder url="file://$MODULE_DIR$/wp-content/uploads" />
+      <excludeFolder url="file://$MODULE_DIR$/wp-content/plugins/breadcrumb-navxt" />
+      <excludeFolder url="file://$MODULE_DIR$/wp-content/plugins/like-button" />
+      <excludeFolder url="file://$MODULE_DIR$/wp-content/plugins/svg-support" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

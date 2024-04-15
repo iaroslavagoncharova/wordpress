@@ -1,9 +1,9 @@
 <?php
 get_header();
 ?>
-	<main class="full-width">
-		<section class="products">
-			<article class="single">
+    <main class="full-width">
+        <section class="products">
+            <article class="single">
 				<?php
 				if ( have_posts() ) :
 					while ( have_posts() ) :
@@ -15,9 +15,10 @@ get_header();
 					_e( 'Sorry, no posts matched your criteria.', 'esimerkki' );
 				endif;
 				?>
-			</article>
-		</section>
-	</main>
+				<?php echo do_shortcode( '[like_button]' ); ?>
+            </article>
+        </section>
+    </main>
 
 <?php
 get_footer();
