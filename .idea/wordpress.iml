@@ -11,6 +11,7 @@
       <excludeFolder url="file://$MODULE_DIR$/wp-content/plugins/breadcrumb-navxt" />
       <excludeFolder url="file://$MODULE_DIR$/wp-content/plugins/like-button" />
       <excludeFolder url="file://$MODULE_DIR$/wp-content/plugins/svg-support" />
+      <excludeFolder url="file://$MODULE_DIR$/wp-content/plugins/all-in-one-wp-migration" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
