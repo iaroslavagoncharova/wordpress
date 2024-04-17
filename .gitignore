@@ -7,10 +7,12 @@
 # Note: if you want to stage/commit WP core files
 # you can delete this whole section/until Configuration.
 /wp-admin/
+wp-content/plugins/*
+
+!wp-content/plugins/like-button/
+!wp-content/plugins/like-button/**
 /wp-content/index.php
 /wp-content/languages
-!/wp-content/plugins/like-button
-/wp-content/plugins/
 /wp-content/themes/index.php
 /wp-includes/
 /index.php
@@ -154,5 +156,3 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-!/.gitignore
-!/wp-content/plugins/like-button/
